@@ -2,11 +2,11 @@
 Chat app is a software that enables users to exchange messages and communicate with each other in real-time. It allows groups to have conversations, share information, and collaborate instantly over the Internet.
 
 ## Join Page
-[![](Img/chat-app join.png)]()
+
 <img src="https://github.com/mikiadarsh25/chat-app/blob/810432c4b59d5e3a5ad68ddc97268454992f120e/Img/chat-app%20join.png" >
 
 ## Chat Screen
-[![](Img/chat-app mainScreen.png)]()
+<img src="https://github.com/mikiadarsh25/chat-app/blob/810432c4b59d5e3a5ad68ddc97268454992f120e/Img/chat-app%20mainScreen.png" >
 
 
 
